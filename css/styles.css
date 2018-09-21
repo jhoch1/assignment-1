@@ -1,4 +1,5 @@
-html {color: fuchsia;
+html {
+    color: fuchsia;
 }
 
 /*
@@ -8,19 +9,36 @@ body {
 }
 */
 
-h1 {color: salmon;
+h1 {
+    color: salmon;
     background-color: aliceblue;
-        font-family: "arial";
+    font-family: "arial";
     font-style: oblique;
 }
 
-h2 {font-family: sans-serif;
-font-weight: 300
+.cis-260 {
+    color: lightsteelblue;
 }
 
-p {color: lavender;
+.test {
+    background-color: firebrick;
+}
+
+.link {
+    background-color: lightsteelblue;
+}
+
+
+h2 {
+    font-family: sans-serif;
+    font-weight: 300
+}
+
+p {
+    color: lavender;
     background-color: palevioletred
 }
 
-a {color: darkred;
+a {
+    color: azure;
 }
