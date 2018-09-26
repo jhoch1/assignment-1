@@ -34,9 +34,22 @@ h2 {
     font-weight: 300
 }
 
+#special-paragraph {
+    color: #d2e6f7;
+}
+
+#special-font {
+    font-family: cursive;
+}
+
+body a {
+    font-family: monospace; 
+}
+
 p {
     color: lavender;
-    background-color: palevioletred
+    font-size: 22 pt;
+    background-color: palevioletred;
 }
 
 a {
